@@ -1,0 +1,12 @@
+filename,best_matching_category,match_percent,confidence,top_3_categories
+10089434.pdf,INFORMATION-TECHNOLOGY,10.6%,Weak/ambiguous match,"INFORMATION-TECHNOLOGY (10.6%), ENGINEERING (7.4%), BPO (3.8%)"
+10247517.pdf,INFORMATION-TECHNOLOGY,8.7%,Weak/ambiguous match,"INFORMATION-TECHNOLOGY (8.7%), ENGINEERING (7.4%), CONSULTANT (5.2%)"
+10265057.pdf,ENGINEERING,12.0%,Strong match,"ENGINEERING (12.0%), INFORMATION-TECHNOLOGY (6.8%), APPAREL (4.9%)"
+10554236.pdf,FINANCE,6.4%,Weak/ambiguous match,"FINANCE (6.4%), ACCOUNTANT (5.5%), BANKING (4.8%)"
+10674770.pdf,ACCOUNTANT,13.4%,Weak/ambiguous match,"ACCOUNTANT (13.4%), FINANCE (9.7%), BANKING (6.1%)"
+11152490.pdf,BANKING,9.1%,Weak/ambiguous match,"BANKING (9.1%), HR (8.6%), CONSULTANT (6.7%)"
+11163645.pdf,BANKING,9.3%,Weak/ambiguous match,"BANKING (9.3%), ACCOUNTANT (5.5%), BPO (5.5%)"
+11257723.pdf,ADVOCATE,8.4%,Weak/ambiguous match,"ADVOCATE (8.4%), HR (5.7%), BPO (5.3%)"
+11797122.pdf,AVIATION,9.7%,Weak/ambiguous match,"AVIATION (9.7%), AUTOMOBILE (9.3%), BANKING (7.2%)"
+15261348.pdf,CHEF,13.7%,Strong match,"CHEF (13.7%), BUSINESS-DEVELOPMENT (3.1%), AUTOMOBILE (2.7%)"
+36366044.pdf,SALES,7.4%,Weak/ambiguous match,"SALES (7.4%), BUSINESS-DEVELOPMENT (7.0%), PUBLIC-RELATIONS (5.5%)"

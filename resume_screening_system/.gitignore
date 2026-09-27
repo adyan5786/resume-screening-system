@@ -1,0 +1,30 @@
+# ==== Python ====
+__pycache__/
+*.py[cod]
+*.pyc
+.pytest_cache/
+
+# ==== Virtual environments ====
+venv/
+.venv/
+env/
+
+# ==== OS / Editor ====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ==== Benchmark / research outputs ====
+# These are regenerated on demand via `python src/evaluate.py`
+# (or `--replot-only` for just the figures). Not needed to use the
+# core product, so they're kept out of version control.
+benchmark/
+
+# ==== Privacy: real / real-derived resume PDFs ====
+# These sample resumes contain real employment history and identifying
+# details. Keep the folder structure (via .gitkeep) but don't publish
+# the actual files. Remove this rule if the repo is private and you're
+# comfortable including them.
+data/raw_resumes/*.pdf
+!data/raw_resumes/.gitkeep
