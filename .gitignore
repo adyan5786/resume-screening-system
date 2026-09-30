@@ -28,3 +28,4 @@ benchmark/
 # comfortable including them.
 data/raw_resumes/*.pdf
 !data/raw_resumes/.gitkeep
+data/Resume.csv
